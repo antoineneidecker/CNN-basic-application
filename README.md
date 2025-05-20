@@ -14,6 +14,12 @@ In this project, I built and trained a CNN from scratch using TensorFlow (withou
 
 This work is part of **Course 4** in the Deep Learning Specialization on Coursera by Andrew Ng (DeepLearning.AI).
 
+
+<p align="center">
+  <img src="images/SIGNS.png" alt="Dataset" width="500"/>
+</p>
+
+
 ---
 
 ## 🧠 What I Learned
